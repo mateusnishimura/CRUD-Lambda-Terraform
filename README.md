@@ -25,7 +25,7 @@ Implementation of a CRUD in Lambda Functions using Terraform to deploy
 	
 	:x: Caso o funcionário não exista, retorna status code 404, qualquer outro tipo de erro retornará status code 500.
 	
-		(Link no email)
+	(Link no email)
 
 - DELETE: deleteFuncionario(): Deleta um funcionário dado o seu id, o id será recebido pelos parâmetros de rota.
 
